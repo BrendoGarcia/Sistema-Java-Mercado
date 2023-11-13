@@ -6,5 +6,9 @@ o sistema atualiza de forma automatica a quantidade de produtos no banco de dado
 
 O programa tambem pode cadatras novos fornecedores de produtos tambem novas categorias para novos produtos ou para produtos já criado.
 
-em uma versão futura terá a opção para atulizar os estatos de um produto ou funcionario, tais operações só podem ser feitas atravez do RGBD como o mysql ou pagina de administração do banco de dados.
+EM uma versão futura terá a opção para atulizar os estatos de um produto ou funcionario, tais operações só podem ser feitas atravez do RGBD como o mysql ou pagina de administração do banco de dados.
+
+TODOS OS PARAMETROS DE CONECÇÂO E EXECUÇÂO DO MYSQL ESTÁ SENDO EXECULTADO DENTRO DO PROPRIO JAVA SEM UMA CRIPTOGRAFIA.
+FOI UTILIZADO AD FERRAMENTAS ECLIPSE PARA RODAR AS CLASSES, O DB4FREE.NET SERVIDOR DE BANCO DE DADOS GRATUITO, MYSQL CLIENTE RGBD UTILIZADO PARA REALIZAR OS REALACIONAMENTOS DAS COLUNAS E TABELAS DO BANCO DE DADOS,
+O BANCO FOI CRIADO DO ZERO PARA ESSE PROJETO ENTRE OUTRAS MINI FERRAMENTAS PARA REALIZAR O PROJETO.
 
