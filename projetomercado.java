@@ -1,8 +1,4 @@
-//===============================================//
-//Autores: Brendo Garcia da Silva, Adrian, Davi. //
-//Versão: 1.0.0                                  //
-//Ferramentas: Eclipse IDE, Mysql Workbench      //
-//===============================================//
+
 
 
 import java.sql.SQLException;
